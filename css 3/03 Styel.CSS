@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    margin: 10px;px;
+    padding:20px;
+    background: url(  ../image/rg.jpg);
+    background-size: cover;
+    
+ 
+}
+body.main{
+    margin: 200px  100px auto;
+    padding: 20px;
+    background-color:rgb(255, 0, 0) ;
+}
+h2{
+    text: alige 50px;;
+    
+    padding: 200x;
+    fornt-family: sans-serif;
+
+}
+div.register{
+    background: rgb(14, 14, 177);
+    width: 100%;
+    font-size: 50px;
+}
+input#submit{
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    background: rgba(255, 0, 0, 0.753);
+}
+

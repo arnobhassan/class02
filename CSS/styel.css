@@ -1,0 +1,62 @@
+body{
+    margin:0px;
+    padding:0px;
+    background: url( ../image/bg02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+ 
+.loginbox{
+    margin: 0px;
+    display: block;
+    width: 320px;
+    height: 420px;
+    background:#2196f30f;
+    color: #e1e5e9cf;
+    top:50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+.avter {
+    margin: 0px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50,-50);
+
+}
+body h2{
+    margin:0px;
+    color: #ee7b7b;
+    font-size:200%;
+    padding: 0%;
+    font-family: 'Aladin', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Reggae One', cursive;
+ 
+
+}
+.submit-btn{
+ 
+    margin: 0px;
+    position:50%-50%;
+}
+body h1r{
+    color: rgba(255, 68, 0, 0.507);
+    font-size: 150px;
+    margin: 50px,70px;
+    padding: 80%;
+    font-family: 'Fredericka the Great', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Press Start 2P', cursive;
+
+
+}
